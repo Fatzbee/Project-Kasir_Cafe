@@ -1,0 +1,24 @@
+           Cafe Ceria
+     		Jl.Sigma Raya,
+    Jatimakmur, Kec.Pondok Gede
+        Kota Bekasi 17413
+                             
+           TABLE:134        
+Customer:zaki	     Id Kasir:1
+-------------------------------
+-------------------------------
+1  Espresso		 12000
+1  Cappucino		 12000
+1  Americano		 15000
+-------------------------------
+-------------------------------
+Subtotal 		 39000
+Ppn 			 3900
+-------------------------------
+TOTAL 			 42900
+Cash 			 50000
+Kembalian 		 7100
+                             
+          Via tunai 
+<-----2023/11/25 17:37:51----->
+         Terima Kasih
